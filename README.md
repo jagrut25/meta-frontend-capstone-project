@@ -11,6 +11,7 @@ Please note: the only functionality working on this website besides the design i
 Here are some screeenshots of the application showcasing the Booking functionality.
 
 ![little lemon website table booking](/src/images/webi.png)
+![second](/src/images/web2.png)
 
 
 
