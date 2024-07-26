@@ -10,13 +10,12 @@ Please note: the only functionality working on this website besides the design i
 ## Screenshots
 Here are some screeenshots of the application showcasing the Booking functionality.
 
-# My Project
-
-![screenshot of live website](images/webi.png)
-(images/web2.png)
+![little lemon website table booking](src\images\webi.png)
 
 
-Welcome to my project!
+
+
+
 
 
 
